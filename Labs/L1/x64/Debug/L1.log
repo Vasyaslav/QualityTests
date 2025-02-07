@@ -1,0 +1,4 @@
+﻿  L1.cpp
+E:\Education\6\QualityTests\Labs\L1\L1.cpp(177,36): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Education\6\QualityTests\Labs\L1\L1.cpp(187,28): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  L1.vcxproj -> E:\Education\6\QualityTests\Labs\x64\Debug\L1.exe

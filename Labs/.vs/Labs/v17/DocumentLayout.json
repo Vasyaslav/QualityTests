@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "T:\\educ\\6\\QualityTests\\Labs\\",
+  "WorkspaceRootPath": "E:\\Education\\6\\QualityTests\\Labs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2903322F-5432-4873-BCE0-D1B9246F2EEB}|L1\\L1.vcxproj|T:\\educ\\6\\QualityTests\\Labs\\L1\\L1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DBD42F9B-7A5D-45D4-A34B-D1A8E333CF93}|L1_45\\L1_45.csproj|e:\\education\\6\\qualitytests\\labs\\l1_45\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBD42F9B-7A5D-45D4-A34B-D1A8E333CF93}|L1_45\\L1_45.csproj|solutionrelative:l1_45\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2903322F-5432-4873-BCE0-D1B9246F2EEB}|L1\\L1.vcxproj|E:\\Education\\6\\QualityTests\\Labs\\L1\\L1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2903322F-5432-4873-BCE0-D1B9246F2EEB}|L1\\L1.vcxproj|solutionrelative:L1\\L1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Education\\6\\QualityTests\\Labs\\L1_45\\Program.cs",
+              "RelativeDocumentMoniker": "L1_45\\Program.cs",
+              "ToolTip": "E:\\Education\\6\\QualityTests\\Labs\\L1_45\\Program.cs",
+              "RelativeToolTip": "L1_45\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T16:35:17.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "L1.cpp",
-              "DocumentMoniker": "T:\\educ\\6\\QualityTests\\Labs\\L1\\L1.cpp",
+              "DocumentMoniker": "E:\\Education\\6\\QualityTests\\Labs\\L1\\L1.cpp",
               "RelativeDocumentMoniker": "L1\\L1.cpp",
-              "ToolTip": "T:\\educ\\6\\QualityTests\\Labs\\L1\\L1.cpp",
+              "ToolTip": "E:\\Education\\6\\QualityTests\\Labs\\L1\\L1.cpp",
               "RelativeToolTip": "L1\\L1.cpp",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAwCYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAADUBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-06T18:25:21.555Z",
               "EditorCaption": ""
